@@ -1,3 +1,6 @@
+This sample web application was created while learning React as a code-along tutorial from Mosh Hamedani's "Learn React - React Crash Course 2018 - React Tutorial with Examples" course on Youtube. Link can be found at https://www.youtube.com/watch?v=Ke90Tje7VS0&t=7870s. Below is the README initialized when creating a React app.
+
+______________________________________________________________________________________________________________________________________
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
